@@ -1,31 +1,9 @@
-# Project Name
+Intro to Web Dev, HEX Workshop Spring 2016 by Innovative Design
 
-TODO: Write a project description
+A project template and sample for a simple portfolio to be built within an hour.
 
-## Installation
+## Getting started
 
-TODO: Describe the installation process
-
-## Usage
-
-TODO: Write usage instructions
-
-## Contributing
-
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-
-## History
-
-TODO: Write history
-
-## Credits
-
-TODO: Write credits
-
-## License
-
-TODO: Write license
+1. `git clone https://github.com/jpdstan/hex-demo.git` in your Terminal
+2. Open `start` in your favorite text editor
+3. To host your files locally, `cd` into start and `serve`
