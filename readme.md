@@ -1,6 +1,6 @@
 Intro to Web Dev, HEX Workshop Spring 2016 by Innovative Design
 
-A project template and sample for a simple portfolio to be built within an hour.
+A project template and sample for a simple portfolio to be built within an hour. Emphasizes material design principles.
 
 ## Getting started
 
