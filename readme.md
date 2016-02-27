@@ -13,7 +13,7 @@ A project template and sample for a simple portfolio to be built within an hour.
 
 1. Make sure you have a GitHub account. Sign up for one at [github.com](http://github.com).
 
-2. Follow [this guide](https://pages.github.com/) through Step 2. If you did this correctly following link should now exist: "USERNAME.github.io" where USERNAME is replaced with your GitHub username, and you should have a new directory called `USERNAME.github.io`.
+2. Follow [this guide](https://pages.github.com/) through Step 2. If you did this correctly following link should now exist: "USERNAME.github.io" where USERNAME is replaced with your GitHub username, and you should have a new directory called `USERNAME.github.io`
 
 3. `cd` into your newly cloned directory. 
 
@@ -26,6 +26,10 @@ A project template and sample for a simple portfolio to be built within an hour.
 7. `rm -r start`
 
 8. Finally, open the USERNAME.github.io with your favorite text editor. 
+
+## Testing your changes
+1. Open the `index.html` with any browser by right clicking the file and selecting "Open With"
+2. Note that any changes you make to your code will not be reflected on the page until you refresh
 
 ## Deploying to GitHub pages
 We will be using [GitHub Pages](https://pages.github.com/) to deploy our website to the web. This is a free service from GitHub that allows us to deploy any static files from our GitHub project. 
