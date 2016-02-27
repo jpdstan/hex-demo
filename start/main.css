@@ -1,0 +1,43 @@
+/* global stuff */
+html {
+    /* change background pic to whatever you want */
+    background: url('images/background.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    font-weight: 300;
+}
+
+/* navbar */
+nav {
+    color: #fff;
+    background-color: transparent;
+    border-bottom: none;
+    box-shadow: none;
+}
+
+/* Our container of elements. */
+.container {
+
+}
+
+/* How your name is going to be displayed. */
+#header {
+    color: #fff;
+    font-weight: lighter;
+}
+
+/* Profile picture. */
+.profile {
+    width: auto;
+    height: auto;
+    box-shadow: white;
+}
+
+/* Social/professional links at the bottom. */
+.link {
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+}
