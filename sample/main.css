@@ -1,12 +1,16 @@
+/* global stuff */
 html {
+    /* change background pic to whatever you want */
     background: url('images/background.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+
     font-weight: 300;
 }
 
+/* navbar */
 nav {
     color: #fff;
     background-color: transparent;
@@ -25,18 +29,14 @@ nav {
     font-weight: lighter;
 }
 
+/* Profile picture. */
 .profile {
-
     width: auto;
     height: auto;
     box-shadow: white;
-
 }
 
-.description {
-
-}
-
+/* Social/professional links at the bottom. */
 .link {
     margin-left: 1.5em;
     margin-right: 1.5em;
