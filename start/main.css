@@ -1,21 +1,27 @@
 /* global stuff */
 html {
     /* change background pic to whatever you want */
-    background: url('images/background.jpg') no-repeat center center fixed;
+
+    /* background: url('images/background.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+    background-size: cover; */
+
 
     font-weight: 300;
 }
 
 /* navbar */
 nav {
-    color: #fff;
     background-color: transparent;
     border-bottom: none;
     box-shadow: none;
+}
+
+/* colors of links */
+nav ul li a {
+    color: black;
 }
 
 /* Our container of elements. */
@@ -25,7 +31,6 @@ nav {
 
 /* How your name is going to be displayed. */
 #header {
-    color: #fff;
     font-weight: lighter;
 }
 
