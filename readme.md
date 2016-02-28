@@ -24,6 +24,7 @@ A project template and sample for a simple portfolio to be built within an hour.
 
 ## Deploying to GitHub pages
 We will be using [GitHub Pages](https://pages.github.com/) to deploy our website to the web. This is a free service from GitHub that allows us to deploy any static files from our GitHub project. 
+0. If you do not have `git` installed already, download [Git for Mac](http://git-scm.com/download/mac) and type the commands in Git Bash instead of terminal.
 
 1. From your `USERNAME.github.io` directory in terminal, type in `git add -A`. Feel free to delete the `sample` directory, although this is not necessary. 
 
